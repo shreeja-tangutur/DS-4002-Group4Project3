@@ -37,7 +37,7 @@ DS-4002-Group4Project3/
 │   └── HOG_LR_Apporach.ipynb
 ├── LICENSE
 └── README.md
-
+```
 
 ## Instruction for Reproducing Results
 Clone the GitHub repository and download the csv files containing the dataset. The data is already cleaned, so run the analysis scripts listed in SCRIPTS folder. The "Exploratory Analysis" produces the exploratory plots, the "HOG_LR_Apporach" does the transfer learning and histogram of oriented gradients, and the []. The results should match the ones in the OUTPUT folder. Our results reveal…
