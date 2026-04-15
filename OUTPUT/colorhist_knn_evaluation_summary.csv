@@ -1,0 +1,2 @@
+best_cv_accuracy,test_accuracy,test_samples,best_metric,best_n_neighbors,best_weights
+0.6551831501831502,0.6030534351145038,131,euclidean,7,distance
