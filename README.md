@@ -35,7 +35,8 @@ DS-4002-Group4Project3/
 ├── SCRIPTS/
 │   ├── Exploratory Analysis.md
 │   └── HOG_LR_Apporach.ipynb
-└── LICENSE
+├── LICENSE
+└── README.md
 
 
 ## Instruction for Reproducing Results
