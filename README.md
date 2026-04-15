@@ -41,10 +41,10 @@ UVA_DS_4002_Group_4_Project_1_text_data/
 ```
 
 ## Instruction for Reproducing Results
-Clone the GitHub repository and download the csv files containing the dataset. The data is already cleaned, so run the analysis scripts listed in SCRIPTS folder. The "Exploratory Analysis" produces the exploratory plots, the "HOG_LR_Apporach" does the transfer learning and histogram of oriented gradients, and the []. The results should match the ones in the OUTPUT folder. Our results reveal…
+Clone the GitHub repository and download the csv files containing the dataset. The data is already cleaned, so run the analysis scripts listed in SCRIPTS folder. The "Exploratory Analysis" produces the exploratory plots, the "HOG_LR_Apporach" does the transfer learning and histogram of oriented gradients, and the "ColorHistogramKNN" performs the KNN approach. The results should match the ones in the OUTPUT folder. Our results reveal…
 
 - The HOG appraoch produces an accuracy rate of 52%
 
-- The kNN approach produces an accuracy rate of []
+- The kNN approach produces an accuracy rate of 66%
 
 ## References
