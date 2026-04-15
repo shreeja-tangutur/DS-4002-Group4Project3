@@ -10,17 +10,24 @@ Necessary add-on packages: pandas, cv2, numpy, matplotlib, sklearn, os module
 The platform: Windows/ Mac
 
 ## Map of Documentation
-UVA_DS_4002_Group_4_Project_1_text_data/
+DS-4002-Group4Project3/
 │
 ├── DATA/
-│   └── Nutrition Food Proj_Cleaned
-│       └── Train
+│   ├── Data AppendixMI3P3.pdf
+│   └── Nutrition Food Proj_Cleaned/
+│       └── Nutrition Food Proj -B0-.folder (1)/
+│           └── train/
+│               ├── American-Cheese/
+│               ├── Apple/
+│               ├── Avocado/
+│               ├── Banana/
+│               └── ... [many food category folders]
 │
 ├── OUTPUT/
 │   ├── Food Category Counts.png
 │   ├── hog_classification_metrics.png
 │   ├── hog_classification_report.csv
-│   ├── hog_classification_matrix.csv
+│   ├── hog_confusion_matrix.csv
 │   ├── hog_confusion_matrix.png
 │   ├── hog_evaluation_summary.csv
 │   └── Image Count per Folder.png
@@ -28,9 +35,7 @@ UVA_DS_4002_Group_4_Project_1_text_data/
 ├── SCRIPTS/
 │   ├── Exploratory Analysis.md
 │   └── HOG_LR_Apporach.ipynb
-├── LICENSE
-├── README.md
-└── requirements.txt
+└── LICENSE
 
 
 ## Instruction for Reproducing Results
