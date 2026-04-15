@@ -10,6 +10,7 @@ Necessary add-on packages: pandas, cv2, numpy, matplotlib, sklearn, os module
 The platform: Windows/ Mac
 
 ## Map of Documentation
+```
 DS-4002-Group4Project3/
 │
 ├── DATA/
